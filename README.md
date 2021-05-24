@@ -1,2 +1,2 @@
 # google-clone
-Clone de google.
+Clone de google hecho con ♥ y solo HTML y CSS.
